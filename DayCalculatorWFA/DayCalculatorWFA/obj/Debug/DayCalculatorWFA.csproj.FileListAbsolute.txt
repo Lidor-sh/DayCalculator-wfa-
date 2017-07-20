@@ -1,0 +1,9 @@
+C:\Users\LIDOR\Desktop\תוכנות\תוכנות שאני יוצר\DayCalculatorWFA\DayCalculatorWFA\bin\Debug\DayCalculatorWFA.exe.config
+C:\Users\LIDOR\Desktop\תוכנות\תוכנות שאני יוצר\DayCalculatorWFA\DayCalculatorWFA\bin\Debug\DayCalculatorWFA.exe
+C:\Users\LIDOR\Desktop\תוכנות\תוכנות שאני יוצר\DayCalculatorWFA\DayCalculatorWFA\bin\Debug\DayCalculatorWFA.pdb
+C:\Users\LIDOR\Desktop\תוכנות\תוכנות שאני יוצר\DayCalculatorWFA\DayCalculatorWFA\obj\Debug\DayCalculatorWFA.csprojResolveAssemblyReference.cache
+C:\Users\LIDOR\Desktop\תוכנות\תוכנות שאני יוצר\DayCalculatorWFA\DayCalculatorWFA\obj\Debug\DayCalculatorWFA.Form1.resources
+C:\Users\LIDOR\Desktop\תוכנות\תוכנות שאני יוצר\DayCalculatorWFA\DayCalculatorWFA\obj\Debug\DayCalculatorWFA.Properties.Resources.resources
+C:\Users\LIDOR\Desktop\תוכנות\תוכנות שאני יוצר\DayCalculatorWFA\DayCalculatorWFA\obj\Debug\DayCalculatorWFA.csproj.GenerateResource.Cache
+C:\Users\LIDOR\Desktop\תוכנות\תוכנות שאני יוצר\DayCalculatorWFA\DayCalculatorWFA\obj\Debug\DayCalculatorWFA.exe
+C:\Users\LIDOR\Desktop\תוכנות\תוכנות שאני יוצר\DayCalculatorWFA\DayCalculatorWFA\obj\Debug\DayCalculatorWFA.pdb
